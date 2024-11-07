@@ -51,7 +51,9 @@ spec:
     
     ### Support & Troubleshooting
     
-    Red Hat OpenShift distributed tracing Jaeger is available and supported as part of a Red Hat OpenShift subscription. Troubleshooting information is available in the [Red Hat Jaeger documentation](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.9/html/distributed_tracing/index), Support is provided to Red Hat OpenShift entitled customers subject to the [Production Scope for Coverage](https://access.redhat.com/support/offerings/production/soc) and the [Red Hat OpenShift distributed tracing Life Cycle](https://access.redhat.com/support/policy/updates/openshift#jaeger).
+    Red Hat OpenShift distributed tracing Jaeger is available and supported as part of a Red Hat OpenShift subscription.
+    Checking the [Red Hat Documentation](https://docs.redhat.com/en/documentation/openshift_container_platform/4.17/html/distributed_tracing/distributed-tracing-platform-jaeger) is recommended when installing, configuring, and managing the Operator and instances.
+    Support is provided to Red Hat OpenShift entitled customers subject to the [Production Scope for Coverage](https://access.redhat.com/support/offerings/production/soc) and the [Red Hat OpenShift distributed tracing Life Cycle](https://access.redhat.com/support/policy/updates/openshift#jaeger).
   displayName: 'Red Hat OpenShift distributed tracing platform'
   maintainers:
     - email: support@redhat.com
